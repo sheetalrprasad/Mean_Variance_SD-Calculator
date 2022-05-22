@@ -4,12 +4,13 @@ The input of the function is in a list containing 9 digits. The function convert
 
 The returned dictionary is in following format:
 
-`{
-  
+```
+{
   'mean': [axis1, axis2, flattened],
   'variance': [axis1, axis2, flattened],
   'standard deviation': [axis1, axis2, flattened],
   'max': [axis1, axis2, flattened],
   'min': [axis1, axis2, flattened],
   'sum': [axis1, axis2, flattened]
-}`
+}
+```
